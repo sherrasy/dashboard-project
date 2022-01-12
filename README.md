@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+Dashboard-project
 
-# dashboard-project
-
-=======
+https://sherrasy.github.io/dashboard-project/dashboard.html
